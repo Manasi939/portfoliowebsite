@@ -1,0 +1,47 @@
+.contact_options{
+    display:block;
+    margin:auto;
+    width:20%;
+    /* margin-top:2rem 2rem 2rem 2rem; */
+    background-color: rgba(90, 191, 231, 0.2);
+    z-index:2;
+   padding:1rem 1rem 1rem 1rem;
+   border-radius: 2rem;
+   color:var(--color-light);
+   justify-content: center;
+  
+}
+
+#hjk{
+    font-size: larger;
+}
+/* .contact_container{
+    margin-top:3rem;
+    margin-bottom: 3rem;;
+} */
+.formc{
+    
+    display:flex;
+    flex-direction:column;
+    gap:1.2rem;
+    display:block;
+    margin:auto;
+    width:50%;
+    border:2px solid white;
+    border-radius: 0.9rem;;
+   padding: 10px 15px;
+}
+.contact_container{
+    display:flex;
+  
+
+}
+
+input,textarea,button{
+width:70%;
+padding:0.5rem;
+margin:1rem 1rem 1rem 1rem;
+border-radius: 0.5rem;
+background: transparent;
+border:2px solid white;
+}
